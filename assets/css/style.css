@@ -17530,6 +17530,7 @@ a.purchase-btn:hover {
   text-shadow: none; 
   font-size: 18px; 
   font-weight: normal;
+  color:#fff;
   margin: 3px;
   padding: 5px 8px 5px 8px;
   background-color: #abbac3!important; 
@@ -17545,9 +17546,8 @@ font-weight: normal;
 line-height: 15px;
 background-color: #ABBAC3 !important; 
 }
-.label-gray,
-.badge-gray { 
-  background-color: #e7e7e7 !important;
+.label-gray, .badge-gray{
+    background-color: #2386e9 !important;
 }
 
 
